@@ -1,2 +1,2 @@
 # odin-recipes
-This current project is the Recipes. I have to demonstrate my skills learned on Basic HTML. I have to create the boilerplate, then use images, links, lists, paragraph, headings and more basic skills teach on The Odin Project.
+This current project is Recipes. I have to demonstrate my skills learned on Basic HTML. I have to create the boilerplate, then use images, links, lists, paragraph, headings and more basic skills teach on The Odin Project.
